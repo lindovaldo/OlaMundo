@@ -1,2 +1,4 @@
-# olá mundo
- Primeiro repositorio versionado
+# olá mundo!
+ Primeiro repositorio GitHub
+
+ Repositorio criado durante uma aula ao vivo!
